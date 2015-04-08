@@ -20,7 +20,7 @@ var LatestVacancies = React.createClass({
   },
 
   fetchVacancies() {
-    fetch('https://internal.ncl.ac.uk/careers/students/vacsonline/vacancies/feed.json')
+    fetch('https://internal.ncl.ac.uk/careers/students/vacsonline/vacancies/feed.json?limit=200')
       .then(response => response.json())
       .then(json => this._handleResponse(json))
       .catch(error => {
