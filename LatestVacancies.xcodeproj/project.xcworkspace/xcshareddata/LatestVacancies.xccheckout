@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9A23B735-1A31-4490-8266-8AA9D4B25B2B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LatestVacancies</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EEFF9EDC07AFE036AECE3AB90216525E81BC345D</key>
+		<string>https://github.com/burriko/LatestVacancies.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LatestVacancies.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EEFF9EDC07AFE036AECE3AB90216525E81BC345D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/burriko/LatestVacancies.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EEFF9EDC07AFE036AECE3AB90216525E81BC345D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EEFF9EDC07AFE036AECE3AB90216525E81BC345D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LatestVacancies</string>
+		</dict>
+	</array>
+</dict>
+</plist>
